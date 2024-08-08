@@ -3,7 +3,7 @@
 Meu nome é Caroline Bezerra
 
 - Estou estudando na Alura.
-- Estou desemvolvendo na linguagem JavaScript
+- Estou desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
   ### Você entrar em contato comigo 📧
